@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Usuario Qualquer",
+      "email": "teste@email.com"
+    }
+  ],
+  "treinos": [
+    {
+      "dia": "Segunda-feira",
+      "exercicios": ["Supino", "Crucifixo", "Flexão"]
+    },
+    {
+      "dia": "Terça-feira",
+      "exercicios": ["Agachamento", "Leg Press", "Cadeira Extensora"]
+    }
+  ],
+  "anotacoes": [
+    {
+      "data": "2025-06-10",
+      "conteudo": "Supino com 40kg - 3x10"
+    }
+  ]
+}
